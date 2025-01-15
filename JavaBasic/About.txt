@@ -1,0 +1,1 @@
+This Folder Contains all the basic qurestion of java related to loops, conditional statement, operators etc.
