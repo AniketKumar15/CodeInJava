@@ -22,3 +22,8 @@ public class NeonNumber {
     neonNumberChecker(a);
   }
 }
+/*
+ * A neon number is a number where the sum of digits of the square of the number
+ * is equal to the number.
+ * like 9, square of 9 is 81 and 8+1=9
+ */
