@@ -42,6 +42,7 @@ The repository is organized as follows:
 ```
 java-programs/
 ├── Basics/
+├── Pattern/
 ├── OOP/
 ├── Projects/
 └── README.md
