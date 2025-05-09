@@ -1,3 +1,5 @@
+// Program to demonstrate inheritance and polymorphism in Java
+
 // Superclass
 class Shape {
     public void area() {

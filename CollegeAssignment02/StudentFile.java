@@ -1,3 +1,4 @@
+// create a program to accept student details(roll, marks, name) from the user. Store them in a file named "students.txt", read the file and display the all the student records.
 import java.io.*;
 import java.util.*;
 

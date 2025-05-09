@@ -1,3 +1,4 @@
+// write a pogram to accept a number and print all the prime numbers from 1 to that number.
 import java.util.Scanner;
 
 class PrimeNum {

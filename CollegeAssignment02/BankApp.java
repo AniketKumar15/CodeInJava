@@ -1,3 +1,4 @@
+// write a menu driven program that allow the user to create account, deposite money and check balance.
 import java.util.Scanner;
 
 class BankAccount {

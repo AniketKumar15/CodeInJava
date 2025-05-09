@@ -1,3 +1,5 @@
+// developed the java code for simulate a simple library management system with features like book borrowing and returning.
+
 import java.util.Scanner;
 
 public class LibrarySystem {

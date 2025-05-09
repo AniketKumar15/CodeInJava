@@ -1,3 +1,5 @@
+// Create a java program that demonstrates the use of multithreading and synchronization.
+
 class Counter {
     int count = 0;
 
