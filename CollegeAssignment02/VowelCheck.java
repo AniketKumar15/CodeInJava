@@ -1,4 +1,4 @@
-
+// Write a program that checks if a string contains any vowels.
 public class VowelCheck {
 	public static void main(String[] args) {
 		String word = "Check";

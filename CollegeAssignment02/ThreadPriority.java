@@ -1,3 +1,4 @@
+//Write a program that demonstrates the use of thread priorities in Java.
 import java.io.*;
 
 class MyThread extends Thread {
