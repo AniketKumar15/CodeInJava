@@ -20,7 +20,7 @@ class PrimeNum {
         int num = sc.nextInt();
 
         System.out.println("Prime numbers less than " + num + " are:");
-        for (int i = 2; i < num; i++) {
+        for (int i = 2; i <= num; i++) {
             if (isPrime(i)) {
                 System.out.println(i);
             }

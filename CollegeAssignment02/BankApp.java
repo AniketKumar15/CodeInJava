@@ -17,7 +17,7 @@ class BankAccount {
 	public void deposit(double amount) {
 		if (amount > 0) {
 			balance += amount;
-			System.out.println("b9" + amount + " deposited successfully.");
+			System.out.println("₹" + amount + " deposited successfully.");
 		} else {
 			System.out.println("Invalid amount.");
 		}
@@ -27,7 +27,7 @@ class BankAccount {
 	public void checkBalance() {
 		System.out.println("Account Holder: " + name);
 		System.out.println("Account Number: " + accountNumber);
-		System.out.println("Current Balance: b9" + balance);
+		System.out.println("Current Balance: ₹" + balance);
 	}
 }
 
